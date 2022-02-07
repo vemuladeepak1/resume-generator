@@ -1,0 +1,288 @@
+.personal-detail{
+    margin-top: -1%;
+}
+.father-name{
+    margin-top: 0.5%;
+}
+.date{
+    margin-top: -1%;
+    font-size: 11px; margin-top: -2.0%;
+}
+.project{
+    margin-top: -2.0%;
+}
+.contact-div{
+    margin-top: -1.5%;
+}
+.contact-head{
+    display: inline-block;
+    font-size: 10px;
+}
+.contact-text{
+    display: inline-block;
+    font-size: 10px; margin-left: 1%;
+}
+#btncontainer{
+    margin-top: 2%;
+    font-size: 15px; 
+    margin-left: 87%;
+}
+.maincontainer{
+    width: 100%; 
+    margin-left: 0;
+     margin-top: -3%;
+}
+.first-name{
+    font-size: 15px; 
+    font-weight: bold;
+}
+.college-qualification{
+    font-size: 12px; 
+    font-weight: bold;
+}
+.address{
+    font-size: 11px;
+     width: 25%;
+}
+.education{
+    width: 100%;
+    font-size: 11px;
+}
+.project-done{
+    font-size: 12px;
+     font-weight: bold;
+      display: inline-block;
+}
+#project-1{
+    margin-left: 1%;
+     font-size: 11px;
+}
+#project-2{
+    margin-left: 2%;
+    font-size: 11px;
+}
+.technical-skill{
+    font-size: 12px; 
+    font-weight: bold; 
+    display: inline-block;
+}
+.area-of-intrest{
+    font-size: 12px;
+     font-weight: bold; 
+     display: inline-block;
+}
+.workshop-attended{
+    font-size: 12px;font-weight: bold;display: inline-block;
+}
+.workshop-1{
+    width: 100%; margin-left: 0%; font-size: 11px;
+}
+.personal-skill{
+    font-size: 12px; font-weight: bold;display: inline-block;
+}
+.personal-details{
+    font-size: 12px;font-weight: bold;display: inline-block;
+}
+.declaration{
+    font-size: 12px; font-weight: bold; display: inline-block;
+}
+.dec-name{
+    margin-left: 0%;display: inline-block;font-size: 11px;
+}
+.place{
+    display: inline-block;font-size: 11px;
+}
+.dec-style{
+    display: flex; justify-content: space-between;
+}
+#personalskill-container{
+    margin-left: 0%; font-size: 11px;
+}
+#intrest-container{
+    margin-left: 2%; font-size: 11px;
+}
+#skill-container{
+    margin-left: 2%; font-size: 11px;
+}
+.career-objective{
+    font-size: 12px; font-weight: bold; display: inline-block;
+}
+.acadamic-credentials{
+    font-size: 12px; font-weight: bold; display: inline-block;
+}
+.tr-font{
+    font-size: 12px;
+}
+.email-div{
+    margin-top: -2.3%;
+}
+.email-head{
+    font-size: 10px; display: inline-block;
+}
+.email-text{
+    display: inline-block; font-size: 11px; margin-left: 1%;
+}
+.linkedin-div{
+    margin-top: -1.7%; font-size: 11px;
+}
+.github-div{
+    margin-top: -1.7%; font-size: 11px;
+}
+.facebook-div{
+    margin-top: -1.7%; font-size: 11px;
+}
+.twitter-div{
+    margin-top: -1.6%; font-size: 11px;
+}
+.instagram-div{
+    margin-top: -1.7%; font-size: 11px;
+}
+
+
+@media only screen and (max-width: 600px) {
+.github-div{
+    margin-top: -3.6%; font-size: 11px;
+}
+.facebook-div{
+    margin-top: -3.6%; font-size: 11px;
+}
+.twitter-div{
+    margin-top: -3.6%; font-size: 11px;
+}
+.instagram-div{
+    margin-top: -3.6%; font-size: 11px;
+}
+    .personal-detail{
+    margin-top: -1%;
+}
+.father-name{
+    margin-top: 0.5%;
+}
+.date{
+    margin-top: -1%;
+    font-size: 11px; margin-top: -1.5%;
+}
+.project{
+    margin-top: -2.0%;
+}
+#btncontainer{
+    margin-top: 2%;
+    font-size: 15px; 
+    margin-left: 60%;
+}
+.maincontainer{
+    width: 100%; 
+    margin-left: 0;
+     margin-top: -3%;
+}
+.first-name{
+    font-size: 15px; 
+    font-weight: bold;
+}
+.college-qualification{
+    font-size: 12px; 
+    font-weight: bold;
+}
+.address{
+    font-size: 11px;
+     width: 25%;
+}
+.education{
+    width: auto;
+    font-size: 11px;
+    margin-left: auto;
+}
+.project-done{
+    font-size: 12px;
+     font-weight: bold;
+      display: inline-block;
+}
+#project-1{
+    margin-left: 1%;
+     font-size: 11px;
+}
+#project-2{
+    margin-left: 2%;
+    font-size: 11px;
+}
+.technical-skill{
+    font-size: 12px; 
+    font-weight: bold; 
+    display: inline-block;
+}
+.area-of-intrest{
+    font-size: 12px;
+     font-weight: bold; 
+     display: inline-block;
+}
+.workshop-attended{
+    font-size: 12px;font-weight: bold;display: inline-block;
+}
+.workshop-1{
+    width: 100%; margin-left: 0%; font-size: 11px;
+}
+.personal-skill{
+    font-size: 12px; font-weight: bold;display: inline-block;
+}
+.personal-details{
+    font-size: 12px;font-weight: bold;display: inline-block;
+}
+.declaration{
+    font-size: 12px; font-weight: bold; display: inline-block;
+}
+.dec-name{
+    margin-left: 0%;display: inline-block;font-size: 11px;
+}
+.place{
+    display: inline-block;font-size: 11px;
+}
+.dec-style{
+    display: flex; justify-content: space-between;
+}
+#personalskill-container{
+    margin-left: 0%; font-size: 11px;
+}
+#intrest-container{
+    margin-left: 2%; font-size: 11px;
+}
+#skill-container{
+    margin-left: 2%; font-size: 11px;
+}
+.career-objective{
+    font-size: 12px; font-weight: bold; display: inline-block;
+}
+.acadamic-credentials{
+    font-size: 12px; font-weight: bold; display: inline-block;
+}
+.tr-font{
+    font-size: 12px;
+}
+.contact-div{
+    margin-top: -1.5%;
+}
+.contact-head{
+    font-size: 10px;
+}
+.contact-text{
+    font-size: 10px; margin-left: 1%;
+}
+.email-div{
+    margin-top: -4.2%;
+}
+.email-head{
+    font-size: 10px; 
+}
+.email-text{
+    font-size: 11px; margin-left: 1%;
+}
+.linkedin-div{
+    margin-top: -3.6%; font-size: 11px;
+}
+}
+@media only screen and (max-width: 640px) and (orientation:landscape) {
+#btncontainer {
+    margin-top: 2%;
+    font-size: 15px;
+    margin-left: 77%;
+}
+}

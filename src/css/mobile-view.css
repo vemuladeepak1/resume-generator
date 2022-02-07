@@ -1,0 +1,91 @@
+.personal-form{
+    margin-top: 4%;
+}
+
+@media only screen and (max-width: 600px) {
+  .stepIndicator{
+      display: none;
+  }
+  h1{
+      font-size: 29px;
+  }
+  h2{
+      font-size: 25px;
+  }
+  #row{
+      margin-top: -5%;
+  }
+  #margin{
+      margin-bottom: 3%;
+  }
+  #row1{
+     margin-top: -5%;
+      margin-bottom: 3%; 
+  }
+   #row2{
+     margin-top: -5%;
+      margin-bottom: 3%; 
+  }
+  
+  .cgpa{
+      width: 100%;
+  }
+  #skillset{
+      margin-top: 7%;
+  }
+  .btncontainer{
+    margin-right: 14%;
+  }
+  .personal-detail{
+      margin-top: -4%;
+  }
+  .personal-form{
+      margin-top: 4%;
+  }
+}
+
+@media(orientation:landscape) and (max-width: 1000px) {
+    .stepIndicator{
+      display: none;
+  }
+   h1{
+      font-size: 29px;
+  }
+  h2{
+      font-size: 25px;
+  }
+  #row{
+      margin-top: -5%;
+  }
+  #margin{
+      margin-bottom: 3%;
+  }
+  #row1{
+     margin-top: -1%;
+      margin-bottom: 1%; 
+  }
+   #row2{
+     margin-top: -1%;
+      margin-bottom: 1%; 
+  }
+  
+  .cgpa{
+      width: 100%;
+  }
+  #skillset{
+      margin-top: 7%;
+  }
+  .btncontainer{
+    margin-right: 14%;
+  }
+  .personal-detail{
+      margin-top: -4%;
+  }
+  .personal-form{
+      margin-top: 4%;
+  }
+  #row{
+    margin-top: -1%;
+}
+}
+
